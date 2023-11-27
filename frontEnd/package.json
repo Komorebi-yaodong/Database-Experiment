@@ -1,0 +1,31 @@
+{
+  "name": "dbe3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "axios": "^1.2.0",
+    "element-plus": "^2.2.25",
+    "express": "^4.18.2",
+    "js-md5": "^0.7.3",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.9.7",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "qs": "^6.11.0",
+    "vite": "^3.2.3"
+  }
+}
